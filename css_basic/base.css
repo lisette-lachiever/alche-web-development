@@ -58,11 +58,14 @@ table {
 body {
 	font-family: 'Josefin Sans', serif;
 	color: rgba(0, 0, 0, 0.8);
+    display: flex;
+    flex-direction: column;
 }
 h1, h2, h3, h4, h5, h6, header {
 	font-family: 'Yeseva One', sans-serif;
 }
 article {
+    flex-direction: row;
 }
 header {
 	border-bottom: 1px solid rgb(221,221,221);
@@ -73,6 +76,7 @@ header a {
 }
 aside {
 	background: #FAFAFA;
+    flex-direction: row;
 }
 aside p {
 	border: 1px solid #bbb;
@@ -86,6 +90,10 @@ a {
 	color: #F80002;
 }
 
+main {
+    display: flex
+
+}
 
 /* Positioning and margins */
 
@@ -104,6 +112,7 @@ article > *:first-child {
 }
 aside {
 	padding: 50px 15px;
+
 }
 header .right {
 	float: right;
