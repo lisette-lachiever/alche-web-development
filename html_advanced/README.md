@@ -1,13 +1,13 @@
 
 ---
 
-```markdown
-# Headphones Company — Get Schooled Landing Page
+```
+# SmileSchool - Smile Tutorials — Landing Page
 ---
 
 ## Project Overview
 
-The **Headphones Company Landing Page** showcases a modern, responsive layout for an online learning platform promoting creative and skill-based courses.  
+The **SmileSchool - Smile Tutorials** showcases a modern, responsive layout for an online learning platform promoting creative and skill-based courses.  
 It highlights featured instructors, testimonials, and free membership details — all designed to demonstrate a real-world webpage layout built purely in HTML.
 
 ---
@@ -16,9 +16,7 @@ It highlights featured instructors, testimonials, and free membership details �
 
 Below is a preview of what the final website will look like once styled with CSS:
 
-![Headphones Landing Page Preview](assets/landing-page-preview.png)
-
-*(Design reference provided in Figma)*
+![SmileSchool - Smile Tutorials Preview](assets/landing-page-preview.png)
 
 ---
 
